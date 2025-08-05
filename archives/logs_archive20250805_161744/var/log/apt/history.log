@@ -1,0 +1,203 @@
+
+Start-Date: 2025-07-07  17:59:04
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: udev:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), systemd-timesyncd:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), libpam-systemd:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), libsystemd0:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), libnss-systemd:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), systemd:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), libudev1:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), systemd-dev:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), systemd-resolved:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), libsystemd-shared:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8), systemd-sysv:amd64 (255.4-1ubuntu8.4, 255.4-1ubuntu8.8)
+End-Date: 2025-07-07  17:59:14
+
+Start-Date: 2025-07-07  17:59:16
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgnutls30t64:amd64 (3.8.3-1.1ubuntu3.2, 3.8.3-1.1ubuntu3.3)
+End-Date: 2025-07-07  17:59:16
+
+Start-Date: 2025-07-07  17:59:17
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: vim:amd64 (2:9.1.0016-1ubuntu7.5, 2:9.1.0016-1ubuntu7.8), xxd:amd64 (2:9.1.0016-1ubuntu7.5, 2:9.1.0016-1ubuntu7.8), vim-common:amd64 (2:9.1.0016-1ubuntu7.5, 2:9.1.0016-1ubuntu7.8), vim-tiny:amd64 (2:9.1.0016-1ubuntu7.5, 2:9.1.0016-1ubuntu7.8), vim-runtime:amd64 (2:9.1.0016-1ubuntu7.5, 2:9.1.0016-1ubuntu7.8)
+End-Date: 2025-07-07  17:59:19
+
+Start-Date: 2025-07-07  17:59:21
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libcap2-bin:amd64 (1:2.66-5ubuntu2, 1:2.66-5ubuntu2.2), libcap2:amd64 (1:2.66-5ubuntu2, 1:2.66-5ubuntu2.2), libpam-cap:amd64 (1:2.66-5ubuntu2, 1:2.66-5ubuntu2.2)
+End-Date: 2025-07-07  17:59:22
+
+Start-Date: 2025-07-07  17:59:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: krb5-locales:amd64 (1.20.1-6ubuntu2.2, 1.20.1-6ubuntu2.6), libgssapi-krb5-2:amd64 (1.20.1-6ubuntu2.2, 1.20.1-6ubuntu2.6), libkrb5support0:amd64 (1.20.1-6ubuntu2.2, 1.20.1-6ubuntu2.6), libkrb5-3:amd64 (1.20.1-6ubuntu2.2, 1.20.1-6ubuntu2.6), libk5crypto3:amd64 (1.20.1-6ubuntu2.2, 1.20.1-6ubuntu2.6)
+End-Date: 2025-07-07  17:59:23
+
+Start-Date: 2025-07-07  17:59:24
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: perl:amd64 (5.38.2-3.2build2, 5.38.2-3.2ubuntu0.1), perl-base:amd64 (5.38.2-3.2build2, 5.38.2-3.2ubuntu0.1), perl-modules-5.38:amd64 (5.38.2-3.2build2, 5.38.2-3.2ubuntu0.1), libperl5.38t64:amd64 (5.38.2-3.2build2, 5.38.2-3.2ubuntu0.1)
+End-Date: 2025-07-07  17:59:25
+
+Start-Date: 2025-07-07  17:59:26
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-setuptools-whl:amd64 (68.1.2-2ubuntu1.1, 68.1.2-2ubuntu1.2), python3-pkg-resources:amd64 (68.1.2-2ubuntu1.1, 68.1.2-2ubuntu1.2), python3-setuptools:amd64 (68.1.2-2ubuntu1.1, 68.1.2-2ubuntu1.2)
+End-Date: 2025-07-07  17:59:27
+
+Start-Date: 2025-07-07  17:59:28
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: liblzma5:amd64 (5.6.1+really5.4.5-1build0.1, 5.6.1+really5.4.5-1ubuntu0.2), xz-utils:amd64 (5.6.1+really5.4.5-1build0.1, 5.6.1+really5.4.5-1ubuntu0.2)
+End-Date: 2025-07-07  17:59:29
+
+Start-Date: 2025-07-07  17:59:30
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libctf-nobfd0:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), libbinutils:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), binutils-x86-64-linux-gnu:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), libctf0:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), binutils-common:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), libsframe1:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), libgprofng0:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5), binutils:amd64 (2.42-4ubuntu2.3, 2.42-4ubuntu2.5)
+End-Date: 2025-07-07  17:59:31
+
+Start-Date: 2025-07-07  17:59:32
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-apport:amd64 (2.28.1-0ubuntu3.3, 2.28.1-0ubuntu3.7), apport-core-dump-handler:amd64 (2.28.1-0ubuntu3.3, 2.28.1-0ubuntu3.7), python3-problem-report:amd64 (2.28.1-0ubuntu3.3, 2.28.1-0ubuntu3.7), apport:amd64 (2.28.1-0ubuntu3.3, 2.28.1-0ubuntu3.7)
+End-Date: 2025-07-07  17:59:35
+
+Start-Date: 2025-07-07  17:59:36
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gpg:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), keyboxd:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gnupg:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gpg-agent:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gpgv:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gpgsm:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), dirmngr:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gnupg-utils:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gnupg-l10n:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gpg-wks-client:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2), gpgconf:amd64 (2.4.4-2ubuntu17, 2.4.4-2ubuntu17.2)
+End-Date: 2025-07-07  17:59:38
+
+Start-Date: 2025-07-07  17:59:39
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libglib2.0-bin:amd64 (2.80.0-6ubuntu3.2, 2.80.0-6ubuntu3.4), gir1.2-glib-2.0:amd64 (2.80.0-6ubuntu3.2, 2.80.0-6ubuntu3.4), libglib2.0-data:amd64 (2.80.0-6ubuntu3.2, 2.80.0-6ubuntu3.4), libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.2, 2.80.0-6ubuntu3.4)
+End-Date: 2025-07-07  17:59:40
+
+Start-Date: 2025-07-07  17:59:41
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: git:amd64 (1:2.43.0-1ubuntu7.1, 1:2.43.0-1ubuntu7.2), git-man:amd64 (1:2.43.0-1ubuntu7.1, 1:2.43.0-1ubuntu7.2)
+End-Date: 2025-07-07  17:59:42
+
+Start-Date: 2025-07-07  17:59:44
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libdw1t64:amd64 (0.190-1.1build4, 0.190-1.1ubuntu0.1), libelf1t64:amd64 (0.190-1.1build4, 0.190-1.1ubuntu0.1)
+End-Date: 2025-07-07  17:59:45
+
+Start-Date: 2025-07-07  17:59:45
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libtasn1-6:amd64 (4.19.0-3build1, 4.19.0-3ubuntu0.24.04.1)
+End-Date: 2025-07-07  17:59:46
+
+Start-Date: 2025-07-07  17:59:47
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssl3t64:amd64 (3.0.13-0ubuntu3.4, 3.0.13-0ubuntu3.5), openssl:amd64 (3.0.13-0ubuntu3.4, 3.0.13-0ubuntu3.5)
+End-Date: 2025-07-07  17:59:48
+
+Start-Date: 2025-07-07  17:59:48
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: tzdata:amd64 (2024a-3ubuntu1.1, 2025b-0ubuntu0.24.04.1)
+End-Date: 2025-07-07  17:59:49
+
+Start-Date: 2025-07-07  17:59:50
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-jinja2:amd64 (3.1.2-1ubuntu1.1, 3.1.2-1ubuntu1.3)
+End-Date: 2025-07-07  17:59:50
+
+Start-Date: 2025-07-07  17:59:51
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: rsync:amd64 (3.2.7-1ubuntu1, 3.2.7-1ubuntu1.2)
+End-Date: 2025-07-07  17:59:52
+
+Start-Date: 2025-07-07  17:59:52
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libsqlite3-0:amd64 (3.45.1-1ubuntu2, 3.45.1-1ubuntu2.3)
+End-Date: 2025-07-07  17:59:52
+
+Start-Date: 2025-07-07  17:59:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libxml2:amd64 (2.9.14+dfsg-1.3ubuntu3, 2.9.14+dfsg-1.3ubuntu3.3)
+End-Date: 2025-07-07  17:59:53
+
+Start-Date: 2025-07-07  17:59:54
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: openssh-client:amd64 (1:9.6p1-3ubuntu13.5, 1:9.6p1-3ubuntu13.11)
+End-Date: 2025-07-07  17:59:55
+
+Start-Date: 2025-07-08  11:34:30
+Commandline: apt install gh
+Requested-By: dev (1000)
+Install: gh:amd64 (2.45.0-1ubuntu0.2)
+End-Date: 2025-07-08  11:34:31
+
+Start-Date: 2025-07-08  14:40:04
+Commandline: apt install bind9-dnsutils
+Requested-By: dev (1000)
+Install: bind9-host:amd64 (1:9.18.30-0ubuntu0.24.04.2, automatic), libmaxminddb0:amd64 (1.9.1-1build1, automatic), libuv1t64:amd64 (1.48.0-1.1build1, automatic), bind9-dnsutils:amd64 (1:9.18.30-0ubuntu0.24.04.2), bind9-libs:amd64 (1:9.18.30-0ubuntu0.24.04.2, automatic), liblmdb0:amd64 (0.9.31-1build1, automatic)
+End-Date: 2025-07-08  14:40:06
+
+Start-Date: 2025-07-14  10:09:34
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: git:amd64 (1:2.43.0-1ubuntu7.2, 1:2.43.0-1ubuntu7.3), git-man:amd64 (1:2.43.0-1ubuntu7.2, 1:2.43.0-1ubuntu7.3)
+End-Date: 2025-07-14  10:09:36
+
+Start-Date: 2025-07-14  10:09:37
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gpg:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), keyboxd:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gnupg:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gpg-agent:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gpgv:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gpgsm:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), dirmngr:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gnupg-utils:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gnupg-l10n:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gpg-wks-client:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3), gpgconf:amd64 (2.4.4-2ubuntu17.2, 2.4.4-2ubuntu17.3)
+End-Date: 2025-07-14  10:09:39
+
+Start-Date: 2025-07-14  10:09:40
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libpam-runtime:amd64 (1.5.3-5ubuntu5.1, 1.5.3-5ubuntu5.4), libpam-modules:amd64 (1.5.3-5ubuntu5.1, 1.5.3-5ubuntu5.4), libpam-modules-bin:amd64 (1.5.3-5ubuntu5.1, 1.5.3-5ubuntu5.4), libpam0g:amd64 (1.5.3-5ubuntu5.1, 1.5.3-5ubuntu5.4)
+End-Date: 2025-07-14  10:09:42
+
+Start-Date: 2025-07-14  10:09:43
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3.12:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), libpython3.12-minimal:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), python3.12-venv:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), libpython3.12t64:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), libpython3.12-dev:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), python3.12-dev:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), python3.12-minimal:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7), libpython3.12-stdlib:amd64 (3.12.3-1ubuntu0.5, 3.12.3-1ubuntu0.7)
+End-Date: 2025-07-14  10:09:46
+
+Start-Date: 2025-07-14  10:09:49
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: sudo:amd64 (1.9.15p5-3ubuntu5, 1.9.15p5-3ubuntu5.24.04.1)
+End-Date: 2025-07-14  10:09:50
+
+Start-Date: 2025-07-14  10:09:51
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-urllib3:amd64 (2.0.7-1ubuntu0.1, 2.0.7-1ubuntu0.2)
+End-Date: 2025-07-14  10:09:51
+
+Start-Date: 2025-07-14  10:09:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-pip-whl:amd64 (24.0+dfsg-1ubuntu1.1, 24.0+dfsg-1ubuntu1.2), python3-pip:amd64 (24.0+dfsg-1ubuntu1.1, 24.0+dfsg-1ubuntu1.2)
+End-Date: 2025-07-14  10:09:55
+
+Start-Date: 2025-07-14  10:09:56
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssh-4:amd64 (0.10.6-2build2, 0.10.6-2ubuntu0.1)
+End-Date: 2025-07-14  10:09:56
+
+Start-Date: 2025-07-14  10:09:57
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-requests:amd64 (2.31.0+dfsg-1ubuntu1, 2.31.0+dfsg-1ubuntu1.1)
+End-Date: 2025-07-14  10:09:57
+
+Start-Date: 2025-07-14  10:09:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-libc-dev:amd64 (6.8.0-60.63, 6.8.0-63.66)
+End-Date: 2025-07-14  10:09:59
+
+Start-Date: 2025-07-21  10:25:52
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libc6:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5), locales:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5), libc-dev-bin:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5), libc-bin:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5), libc-devtools:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5), libc6-dev:amd64 (2.39-0ubuntu8.4, 2.39-0ubuntu8.5)
+End-Date: 2025-07-21  10:25:57
+
+Start-Date: 2025-07-21  10:25:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgnutls30t64:amd64 (3.8.3-1.1ubuntu3.3, 3.8.3-1.1ubuntu3.4)
+End-Date: 2025-07-21  10:25:59
+
+Start-Date: 2025-07-21  10:26:00
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-apport:amd64 (2.28.1-0ubuntu3.7, 2.28.1-0ubuntu3.8), apport-core-dump-handler:amd64 (2.28.1-0ubuntu3.7, 2.28.1-0ubuntu3.8), python3-problem-report:amd64 (2.28.1-0ubuntu3.7, 2.28.1-0ubuntu3.8), apport:amd64 (2.28.1-0ubuntu3.7, 2.28.1-0ubuntu3.8)
+End-Date: 2025-07-21  10:26:06
+
+Start-Date: 2025-07-21  10:26:07
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-libc-dev:amd64 (6.8.0-63.66, 6.8.0-64.67)
+End-Date: 2025-07-21  10:26:07
+
+Start-Date: 2025-07-23  10:22:44
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gh:amd64 (2.45.0-1ubuntu0.2, 2.45.0-1ubuntu0.3)
+End-Date: 2025-07-23  10:22:46
+
+Start-Date: 2025-07-25  11:27:42
+Commandline: apt install net-tools
+Requested-By: dev (1000)
+Install: net-tools:amd64 (2.10-0.1ubuntu4.4)
+End-Date: 2025-07-25  11:27:44

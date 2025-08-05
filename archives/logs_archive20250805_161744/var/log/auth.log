@@ -1,0 +1,272 @@
+2025-07-21T11:17:08.026408+05:30 Ashutosh CRON[5295]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T11:17:08.058950+05:30 Ashutosh CRON[5295]: pam_unix(cron:session): session closed for user root
+2025-07-21T12:17:08.507209+05:30 Ashutosh CRON[5339]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T12:17:08.539019+05:30 Ashutosh CRON[5339]: pam_unix(cron:session): session closed for user root
+2025-07-21T13:17:08.753504+05:30 Ashutosh CRON[5410]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T13:17:08.831952+05:30 Ashutosh CRON[5410]: pam_unix(cron:session): session closed for user root
+2025-07-21T14:17:06.722497+05:30 Ashutosh CRON[5527]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T14:17:06.773320+05:30 Ashutosh CRON[5527]: pam_unix(cron:session): session closed for user root
+2025-07-21T15:17:06.533592+05:30 Ashutosh CRON[5598]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T15:17:06.574141+05:30 Ashutosh CRON[5598]: pam_unix(cron:session): session closed for user root
+2025-07-21T16:17:06.942867+05:30 Ashutosh CRON[5670]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T16:17:06.995858+05:30 Ashutosh CRON[5670]: pam_unix(cron:session): session closed for user root
+2025-07-21T18:17:01.979668+05:30 Ashutosh CRON[5943]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-21T18:17:02.006582+05:30 Ashutosh CRON[5943]: pam_unix(cron:session): session closed for user root
+2025-07-22T10:17:04.524051+05:30 Ashutosh CRON[6304]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T10:17:04.569483+05:30 Ashutosh CRON[6304]: pam_unix(cron:session): session closed for user root
+2025-07-22T11:17:04.179393+05:30 Ashutosh CRON[6415]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T11:17:04.205742+05:30 Ashutosh CRON[6415]: pam_unix(cron:session): session closed for user root
+2025-07-22T12:17:02.689085+05:30 Ashutosh CRON[6536]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T12:17:02.699527+05:30 Ashutosh CRON[6536]: pam_unix(cron:session): session closed for user root
+2025-07-22T12:32:14.517634+05:30 Ashutosh sudo:      dev : TTY=pts/2 ; PWD=/home/dev/hello ; USER=root ; COMMAND=/usr/bin/apt install go golang-go
+2025-07-22T12:32:14.526305+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:32:14.982692+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T12:38:46.453469+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev/go ; USER=root ; COMMAND=/usr/bin/mv go1.24.5.linux-amd64.tar.gz /usr/local
+2025-07-22T12:38:46.455996+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:38:46.461052+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T12:39:36.432763+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev/go ; USER=root ; COMMAND=/usr/bin/ls /user/local
+2025-07-22T12:39:36.433995+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:39:36.438969+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T12:39:40.425772+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev/go ; USER=root ; COMMAND=/usr/bin/ls /usr/local
+2025-07-22T12:39:40.428087+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:39:40.431552+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T12:40:12.861422+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev/go ; USER=root ; COMMAND=/usr/bin/rm -rf /usr/local/go
+2025-07-22T12:40:12.862734+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:40:12.865371+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T12:43:24.230205+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/usr/local ; USER=root ; COMMAND=/usr/bin/tar -C /usr/local -xzf go1.24.5.linux-amd64.tar.gz
+2025-07-22T12:43:24.234070+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T12:43:26.773682+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:01:11.609222+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv -r /hello /go
+2025-07-22T13:01:11.621786+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:01:11.622427+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:01:18.513196+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv /hello /go
+2025-07-22T13:01:18.515241+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:01:18.518444+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:01:23.228430+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv hello /go
+2025-07-22T13:01:23.229588+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:01:23.235761+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:01:57.564613+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv hello /go
+2025-07-22T13:01:57.568989+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:01:57.575742+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:02:10.346202+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv -r hello go
+2025-07-22T13:02:10.351665+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:02:10.357786+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:02:37.986649+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv hello go
+2025-07-22T13:02:37.988223+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:02:37.989091+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:02:48.381776+05:30 Ashutosh sudo:      dev : TTY=pts/3 ; PWD=/home/dev ; USER=root ; COMMAND=/usr/bin/mv /hello go
+2025-07-22T13:02:48.382387+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-22T13:02:48.384277+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-22T13:17:05.295011+05:30 Ashutosh CRON[13211]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T13:17:05.305612+05:30 Ashutosh CRON[13211]: pam_unix(cron:session): session closed for user root
+2025-07-22T14:35:55.930710+05:30 Ashutosh systemd-logind[16495]: New seat seat0.
+2025-07-22T14:35:55.930911+05:30 Ashutosh systemd-logind[16495]: New session 1 of user dev.
+2025-07-22T15:17:02.815579+05:30 Ashutosh CRON[17617]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T15:17:02.844228+05:30 Ashutosh CRON[17617]: pam_unix(cron:session): session closed for user root
+2025-07-22T16:17:05.256538+05:30 Ashutosh CRON[23554]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T16:17:05.272353+05:30 Ashutosh CRON[23554]: pam_unix(cron:session): session closed for user root
+2025-07-22T17:17:04.287765+05:30 Ashutosh CRON[24168]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T17:17:04.303323+05:30 Ashutosh CRON[24168]: pam_unix(cron:session): session closed for user root
+2025-07-22T18:17:04.698180+05:30 Ashutosh CRON[24906]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-22T18:17:04.736130+05:30 Ashutosh CRON[24906]: pam_unix(cron:session): session closed for user root
+2025-07-25T10:44:03.366312+05:30 Ashutosh systemd-logind[241]: New seat seat0.
+2025-07-25T10:44:05.299591+05:30 Ashutosh login[461]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-07-25T10:44:05.299678+05:30 Ashutosh login[461]: PAM adding faulty module: pam_lastlog.so
+2025-07-25T10:44:05.644713+05:30 Ashutosh login[461]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-25T10:44:05.710801+05:30 Ashutosh systemd-logind[241]: New session 1 of user dev.
+2025-07-25T10:44:05.746069+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-25T10:47:19.185225+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/home/dev/meraki_backup ; USER=root ; COMMAND=/usr/bin/git clone https://github.com/Invecto-technologies-pvt-ltd/MERAKI-AI-CHANGELOG.git
+2025-07-25T10:47:19.185719+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-25T10:48:03.474159+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-25T10:49:55.626195+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/home/dev/meraki_backup ; USER=root ; COMMAND=/usr/bin/git clone https://github.com/Invecto-technologies-pvt-ltd/MERAKI-AI-CHANGELOG.git
+2025-07-25T10:49:55.636647+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-25T10:50:04.360945+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-25T10:51:58.524979+05:30 Ashutosh sudo:      dev : TTY=pts/5 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/python3 -m venv meraki
+2025-07-25T10:51:58.529666+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-25T10:52:01.083341+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-25T10:54:01.094378+05:30 Ashutosh sudo:      dev : TTY=pts/5 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/pip install requirements.txt
+2025-07-25T10:54:01.095885+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-25T10:54:01.436135+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-25T11:26:51.147817+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/apt install net-tools
+2025-07-25T11:26:51.154777+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-25T11:27:45.133342+05:30 Ashutosh polkitd[3316]: Loading rules from directory /etc/polkit-1/rules.d
+2025-07-25T11:27:45.133900+05:30 Ashutosh polkitd[3316]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-07-25T11:27:45.136949+05:30 Ashutosh polkitd[3316]: Finished loading, compiling and executing 4 rules
+2025-07-25T11:27:45.138251+05:30 Ashutosh polkitd[3316]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-07-25T11:27:45.793105+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-25T12:17:02.680621+05:30 Ashutosh CRON[9366]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-25T12:17:02.686246+05:30 Ashutosh CRON[9366]: pam_unix(cron:session): session closed for user root
+2025-07-25T13:17:02.186949+05:30 Ashutosh CRON[19451]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-25T13:17:02.203064+05:30 Ashutosh CRON[19451]: pam_unix(cron:session): session closed for user root
+2025-07-25T13:59:43.961052+05:30 Ashutosh systemd-logind[21409]: New seat seat0.
+2025-07-25T13:59:43.970541+05:30 Ashutosh systemd-logind[21409]: New session 1 of user dev.
+2025-07-25T15:17:04.082974+05:30 Ashutosh CRON[23533]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-25T15:17:04.105343+05:30 Ashutosh CRON[23533]: pam_unix(cron:session): session closed for user root
+2025-07-25T16:17:03.673457+05:30 Ashutosh CRON[25763]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-25T16:17:03.694708+05:30 Ashutosh CRON[25763]: pam_unix(cron:session): session closed for user root
+2025-07-25T17:17:03.649977+05:30 Ashutosh CRON[27737]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-25T17:17:03.661211+05:30 Ashutosh CRON[27737]: pam_unix(cron:session): session closed for user root
+2025-07-26T16:53:04.774646+05:30 Ashutosh systemd-logind[30627]: New seat seat0.
+2025-07-26T16:53:04.780940+05:30 Ashutosh systemd-logind[30627]: New session 1 of user dev.
+2025-07-26T19:45:51.509378+05:30 Ashutosh systemd-logind[30965]: New seat seat0.
+2025-07-26T19:45:51.515079+05:30 Ashutosh systemd-logind[30965]: New session 1 of user dev.
+2025-07-27T15:18:50.039458+05:30 Ashutosh systemd-logind[31617]: New seat seat0.
+2025-07-27T15:18:50.042934+05:30 Ashutosh systemd-logind[31617]: New session 1 of user dev.
+2025-07-28T11:44:13.869906+05:30 Ashutosh systemd-logind[252]: New seat seat0.
+2025-07-28T11:44:16.297754+05:30 Ashutosh login[405]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-07-28T11:44:16.299218+05:30 Ashutosh login[405]: PAM adding faulty module: pam_lastlog.so
+2025-07-28T11:44:17.676759+05:30 Ashutosh login[405]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-28T11:44:17.981749+05:30 Ashutosh systemd-logind[252]: New session 1 of user dev.
+2025-07-28T11:44:18.571989+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-28T11:45:25.527319+05:30 Ashutosh systemd-logind[243]: New seat seat0.
+2025-07-28T11:45:27.814643+05:30 Ashutosh login[386]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-07-28T11:45:27.814893+05:30 Ashutosh login[386]: PAM adding faulty module: pam_lastlog.so
+2025-07-28T11:45:28.363622+05:30 Ashutosh login[386]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-28T11:45:28.425913+05:30 Ashutosh systemd-logind[243]: New session 3 of user dev.
+2025-07-28T11:45:28.473781+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-28T12:13:53.044483+05:30 Ashutosh sudo:      dev : TTY=pts/7 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/python3 -m venv meraki
+2025-07-28T12:13:53.060641+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-28T12:13:54.610108+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-28T12:14:22.774280+05:30 Ashutosh sudo:      dev : TTY=pts/7 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/python3 -m venv meraki
+2025-07-28T12:14:22.776728+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-28T12:14:24.087258+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-28T12:15:18.437446+05:30 Ashutosh sudo:      dev : TTY=pts/7 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/pip install -r requirements.txt
+2025-07-28T12:15:18.441897+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-28T12:15:19.294363+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-28T12:17:02.086149+05:30 Ashutosh CRON[1942]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T12:17:02.104609+05:30 Ashutosh CRON[1942]: pam_unix(cron:session): session closed for user root
+2025-07-28T12:17:23.997427+05:30 Ashutosh sudo:      dev : TTY=pts/7 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/chown -R dev:dev /home/dev/meraki_backup/MERAKI-AI-CHANGELOG/meraki
+2025-07-28T12:17:24.001109+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-28T12:17:24.029402+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-28T12:21:51.913334+05:30 Ashutosh sudo:      dev : TTY=pts/7 ; PWD=/home/dev/meraki_backup/MERAKI-AI-CHANGELOG ; USER=root ; COMMAND=/usr/bin/chown -R dev:dev /home/dev/meraki_backup/MERAKI-AI-CHANGELOG
+2025-07-28T12:21:51.920437+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-07-28T12:21:51.969238+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-07-28T13:17:03.389844+05:30 Ashutosh CRON[13420]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T13:17:03.396004+05:30 Ashutosh CRON[13420]: pam_unix(cron:session): session closed for user root
+2025-07-28T14:17:02.873323+05:30 Ashutosh CRON[16054]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T14:17:02.879188+05:30 Ashutosh CRON[16054]: pam_unix(cron:session): session closed for user root
+2025-07-28T14:58:54.443131+05:30 Ashutosh systemd-logind[19893]: New seat seat0.
+2025-07-28T14:58:54.456628+05:30 Ashutosh systemd-logind[19893]: New session 3 of user dev.
+2025-07-28T15:17:04.225511+05:30 Ashutosh CRON[21968]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T15:17:04.243554+05:30 Ashutosh CRON[21968]: pam_unix(cron:session): session closed for user root
+2025-07-28T15:36:39.778381+05:30 Ashutosh systemd-logind[23835]: New seat seat0.
+2025-07-28T15:36:39.791289+05:30 Ashutosh systemd-logind[23835]: New session 3 of user dev.
+2025-07-28T16:17:03.337492+05:30 Ashutosh CRON[28307]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T16:17:03.352465+05:30 Ashutosh CRON[28307]: pam_unix(cron:session): session closed for user root
+2025-07-28T17:17:04.353604+05:30 Ashutosh CRON[33626]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T17:17:04.373169+05:30 Ashutosh CRON[33626]: pam_unix(cron:session): session closed for user root
+2025-07-28T18:17:04.531810+05:30 Ashutosh CRON[38464]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T18:17:04.540999+05:30 Ashutosh CRON[38464]: pam_unix(cron:session): session closed for user root
+2025-07-28T18:37:16.385380+05:30 Ashutosh systemd-logind[39253]: New seat seat0.
+2025-07-28T18:37:16.396769+05:30 Ashutosh systemd-logind[39253]: New session 3 of user dev.
+2025-07-28T23:17:02.717291+05:30 Ashutosh CRON[42084]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-28T23:17:02.725505+05:30 Ashutosh CRON[42084]: pam_unix(cron:session): session closed for user root
+2025-07-29T10:17:01.460108+05:30 Ashutosh CRON[42981]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T10:17:01.469222+05:30 Ashutosh CRON[42981]: pam_unix(cron:session): session closed for user root
+2025-07-29T11:17:01.490428+05:30 Ashutosh CRON[44518]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T11:17:01.495762+05:30 Ashutosh CRON[44518]: pam_unix(cron:session): session closed for user root
+2025-07-29T12:17:01.608813+05:30 Ashutosh CRON[46611]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T12:17:01.626782+05:30 Ashutosh CRON[46611]: pam_unix(cron:session): session closed for user root
+2025-07-29T13:17:01.678354+05:30 Ashutosh CRON[48784]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T13:17:01.683442+05:30 Ashutosh CRON[48784]: pam_unix(cron:session): session closed for user root
+2025-07-29T14:05:18.886234+05:30 Ashutosh systemd-logind[49971]: New seat seat0.
+2025-07-29T14:05:18.963601+05:30 Ashutosh systemd-logind[49971]: New session 3 of user dev.
+2025-07-29T14:17:01.260521+05:30 Ashutosh CRON[50640]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T14:17:01.270706+05:30 Ashutosh CRON[50640]: pam_unix(cron:session): session closed for user root
+2025-07-29T15:17:01.490146+05:30 Ashutosh CRON[52972]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T15:17:01.501854+05:30 Ashutosh CRON[52972]: pam_unix(cron:session): session closed for user root
+2025-07-29T16:17:02.493382+05:30 Ashutosh CRON[55377]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-29T16:17:02.505594+05:30 Ashutosh CRON[55377]: pam_unix(cron:session): session closed for user root
+2025-07-30T10:47:10.184900+05:30 Ashutosh systemd-logind[247]: New seat seat0.
+2025-07-30T10:47:12.628994+05:30 Ashutosh login[405]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-07-30T10:47:12.629412+05:30 Ashutosh login[405]: PAM adding faulty module: pam_lastlog.so
+2025-07-30T10:47:13.154692+05:30 Ashutosh login[405]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-30T10:47:13.225667+05:30 Ashutosh systemd-logind[247]: New session 1 of user dev.
+2025-07-30T10:47:13.251632+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-07-30T11:17:02.507688+05:30 Ashutosh CRON[5778]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T11:17:02.522765+05:30 Ashutosh CRON[5778]: pam_unix(cron:session): session closed for user root
+2025-07-30T12:17:03.425824+05:30 Ashutosh CRON[12337]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T12:17:03.452233+05:30 Ashutosh CRON[12337]: pam_unix(cron:session): session closed for user root
+2025-07-30T13:17:02.737087+05:30 Ashutosh CRON[18017]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T13:17:02.765767+05:30 Ashutosh CRON[18017]: pam_unix(cron:session): session closed for user root
+2025-07-30T14:17:03.952618+05:30 Ashutosh CRON[25656]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T14:17:03.958895+05:30 Ashutosh CRON[25656]: pam_unix(cron:session): session closed for user root
+2025-07-30T15:06:15.708578+05:30 Ashutosh systemd-logind[28392]: New seat seat0.
+2025-07-30T15:06:15.721120+05:30 Ashutosh systemd-logind[28392]: New session 1 of user dev.
+2025-07-30T15:17:02.794889+05:30 Ashutosh CRON[29790]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T15:17:02.804984+05:30 Ashutosh CRON[29790]: pam_unix(cron:session): session closed for user root
+2025-07-30T16:17:03.731920+05:30 Ashutosh CRON[35216]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T16:17:03.741899+05:30 Ashutosh CRON[35216]: pam_unix(cron:session): session closed for user root
+2025-07-30T17:17:05.970540+05:30 Ashutosh CRON[43161]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T17:17:05.975793+05:30 Ashutosh CRON[43161]: pam_unix(cron:session): session closed for user root
+2025-07-30T18:17:01.498296+05:30 Ashutosh CRON[52464]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-30T18:17:01.508090+05:30 Ashutosh CRON[52464]: pam_unix(cron:session): session closed for user root
+2025-07-31T14:17:04.061729+05:30 Ashutosh CRON[66459]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-31T14:17:04.079522+05:30 Ashutosh CRON[66459]: pam_unix(cron:session): session closed for user root
+2025-07-31T15:17:04.669981+05:30 Ashutosh CRON[68156]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-31T15:17:04.681250+05:30 Ashutosh CRON[68156]: pam_unix(cron:session): session closed for user root
+2025-07-31T16:17:05.664883+05:30 Ashutosh CRON[70056]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-31T16:17:05.698244+05:30 Ashutosh CRON[70056]: pam_unix(cron:session): session closed for user root
+2025-07-31T17:17:03.205120+05:30 Ashutosh CRON[71961]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-07-31T17:17:03.217321+05:30 Ashutosh CRON[71961]: pam_unix(cron:session): session closed for user root
+2025-08-04T15:52:42.259291+05:30 Ashutosh systemd-logind[247]: New seat seat0.
+2025-08-04T15:52:44.445071+05:30 Ashutosh login[407]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-08-04T15:52:44.445512+05:30 Ashutosh login[407]: PAM adding faulty module: pam_lastlog.so
+2025-08-04T15:52:44.877024+05:30 Ashutosh login[407]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-08-04T15:52:44.958479+05:30 Ashutosh systemd-logind[247]: New session 1 of user dev.
+2025-08-04T15:52:44.975255+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-08-04T16:17:02.001419+05:30 Ashutosh CRON[818]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-04T16:17:02.023362+05:30 Ashutosh CRON[818]: pam_unix(cron:session): session closed for user root
+2025-08-04T17:17:01.288146+05:30 Ashutosh CRON[962]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-04T17:17:01.302306+05:30 Ashutosh CRON[962]: pam_unix(cron:session): session closed for user root
+2025-08-04T18:17:01.379327+05:30 Ashutosh CRON[1081]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-04T18:17:01.387878+05:30 Ashutosh CRON[1081]: pam_unix(cron:session): session closed for user root
+2025-08-05T11:17:01.717995+05:30 Ashutosh CRON[1323]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T11:17:01.732064+05:30 Ashutosh CRON[1323]: pam_unix(cron:session): session closed for user root
+2025-08-05T11:31:46.932706+05:30 Ashutosh polkitd[1673]: Loading rules from directory /etc/polkit-1/rules.d
+2025-08-05T11:31:46.933150+05:30 Ashutosh polkitd[1673]: Loading rules from directory /usr/share/polkit-1/rules.d
+2025-08-05T11:31:46.936615+05:30 Ashutosh polkitd[1673]: Finished loading, compiling and executing 4 rules
+2025-08-05T11:31:46.937744+05:30 Ashutosh polkitd[1673]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+2025-08-05T12:17:02.048403+05:30 Ashutosh CRON[1843]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T12:17:02.076162+05:30 Ashutosh CRON[1843]: pam_unix(cron:session): session closed for user root
+2025-08-05T13:17:02.494741+05:30 Ashutosh CRON[1888]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T13:17:02.519999+05:30 Ashutosh CRON[1888]: pam_unix(cron:session): session closed for user root
+2025-08-05T14:18:35.232173+05:30 Ashutosh CRON[1893]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T14:18:35.236346+05:30 Ashutosh CRON[1893]: pam_unix(cron:session): session closed for user root
+2025-08-05T15:17:03.086553+05:30 Ashutosh CRON[1922]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T15:17:03.138636+05:30 Ashutosh CRON[1922]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:03:57.375105+05:30 Ashutosh systemd-logind[237]: New seat seat0.
+2025-08-05T16:03:58.919968+05:30 Ashutosh login[390]: PAM unable to dlopen(pam_lastlog.so): /usr/lib/security/pam_lastlog.so: cannot open shared object file: No such file or directory
+2025-08-05T16:03:58.920245+05:30 Ashutosh login[390]: PAM adding faulty module: pam_lastlog.so
+2025-08-05T16:03:59.206997+05:30 Ashutosh login[390]: pam_unix(login:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-08-05T16:03:59.300201+05:30 Ashutosh systemd-logind[237]: New session 1 of user dev.
+2025-08-05T16:03:59.317562+05:30 Ashutosh (systemd): pam_unix(systemd-user:session): session opened for user dev(uid=1000) by dev(uid=0)
+2025-08-05T16:04:33.914787+05:30 Ashutosh sudo: pam_unix(sudo:auth): authentication failure; logname= uid=1000 euid=0 tty=/dev/pts/0 ruser=dev rhost=  user=dev
+2025-08-05T16:04:40.902179+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:04:40.902412+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:04:40.918018+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:04:58.260473+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:04:58.261343+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:04:58.277442+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:05:11.249116+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:05:11.249892+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:05:11.277673+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:05:52.639480+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:05:52.640255+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:05:52.661221+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:06:03.244756+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:06:03.246497+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:06:03.263103+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:06:22.674314+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:06:22.674916+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:06:22.772809+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:14:44.505800+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:14:44.509913+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:14:44.531094+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:16:13.132235+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:16:13.132768+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)
+2025-08-05T16:16:13.149082+05:30 Ashutosh sudo: pam_unix(sudo:session): session closed for user root
+2025-08-05T16:17:01.666996+05:30 Ashutosh CRON[684]: pam_unix(cron:session): session opened for user root(uid=0) by root(uid=0)
+2025-08-05T16:17:01.676841+05:30 Ashutosh CRON[684]: pam_unix(cron:session): session closed for user root
+2025-08-05T16:17:44.154168+05:30 Ashutosh sudo:      dev : TTY=pts/0 ; PWD=/mnt/d/Devops/Sh ; USER=root ; COMMAND=./log_archive.sh
+2025-08-05T16:17:44.155070+05:30 Ashutosh sudo: pam_unix(sudo:session): session opened for user root(uid=0) by (uid=1000)

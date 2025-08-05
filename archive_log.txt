@@ -1,0 +1,10 @@
+ -created archive in archives/logs_archive.tar.gz
+ -created archive in archives/logs_archive.tar.gz
+ -created archive in archives/logs_archive.tar.gz
+ -created archive in archives/logs_archive.tar.gz
+ -created archive in archives/logs_archive.tar.gz
+ -created archive in archives/logs_archive20250805_160603.tar.gz
+ -created archive in archives/logs_archive20250805_160622.tar.gz
+ -created archive in archives/logs_archive20250805_161444.tar.gz
+ -created archive in archives/logs_archive20250805_161613.tar.gz
+ -created archive in archives/logs_archive20250805_161744.tar.gz
